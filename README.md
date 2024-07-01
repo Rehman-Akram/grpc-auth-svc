@@ -4,6 +4,13 @@
 
 Auth Microservice with api gateway template using gRPC.
 
+## Repositories
+
+Auth micro service: https://github.com/Rehman-Akram/grpc-auth-svc
+Product micro service:
+Order micro service:
+Shared proto repo: https://github.com/Rehman-Akram/grpc-nest-proto
+
 ## Pre-Requisites
 
 Node: 20.14.0
