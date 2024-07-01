@@ -4,21 +4,12 @@
 
 Auth Microservice with api gateway template using gRPC.
 
-## Installation
+## Pre-Requisites
 
-```bash
-$ npm install
-```
+Node: 20.14.0
 
-## Running the app
+## Getting Started
 
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
+npm i
+npm run proto:install (This will install our proto package for gPRC)
+npm run proto:all (This will create .pb files in our modules for services)
